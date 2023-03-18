@@ -29,7 +29,7 @@ Hay que tener en cuenta que existen tres niveles en los que los cambios pueden o
 * La tercera capa, la más profunda, incluye **cambiar tu identidad**. Este nivel se relaciona con cambiar tus creencias: tu visión del mundo, la imagen de ti mismo, tus juicios acerca de ti mismo y de los demás. La mayoría de las creencias, las suposiciones y los prejuicios que mantienes están asociados con este nivel.
 
 <!--- ### Page 53 @ 18 March 2023 09:06 AM -->
-**Los resultados tienen que ver con lo que obtienes. Los procesos tienen que ver con lo que haces. La identidad tiene que ver con lo que crees.** Cuando se trata de desarrollar hábitos perdurables —es decir, cuando se trata de desarrollar un sistema de un 1 % de mejora—, el problema no radica en definir si un nivel es mejor o peor que otro. El verdadero problema radica en la dirección que sigue el cambio.
+**Los resultados tienen que ver con lo que obtienes. Los procesos tienen que ver con lo que haces. La identidad tiene que ver con lo que crees.** Cuando se trata de desarrollar hábitos perdurables —es decir, cuando se trata de desarrollar un sistema de un 1% de mejora—, el problema no radica en definir si un nivel es mejor o peor que otro. El verdadero problema radica en la dirección que sigue el cambio.
 
 <!--- ### Page 53 @ 16 March 2023 08:38 PM -->
 ##### Hábitos basados en resultados
@@ -63,17 +63,17 @@ Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas
 Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto. **Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.**
 
 <!--- ### Page 59 @ 16 March 2023 09:28 AM -->
-Cuando tu conducta y tu identidad están completamente sincronizadas, ya no intentas lograr cambios de conducta. Simplemente estás actuando como la persona que tú crees que eres (*N. del R.* te mantienes de forma congruente).
+Cuando tu conducta y tu identidad están completamente sincronizadas, ya no intentas lograr cambios de conducta. Simplemente estás actuando como la persona que tú crees que eres. (*N. del R. «No existe la posibilidad de sufrir un conflicto interno, ya que tu personalidad se define congruentemente.»*)
 
 <!--- ### Page 59 @ 16 March 2023 04:30 PM -->
 <!--- ### Page 60 @ 16 March 2023 04:30 PM -->
-(Sin embargo) Como todos los aspectos de la formación de hábitos, este también es un arma de doble filo. Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias.
+Sin embargo, como todos los aspectos de la formación de hábitos, este también es un arma de doble filo. Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias.
 
 <!--- ### Page 60 @ 16 March 2023 04:30 PM -->
-> Cuanto más profundamente estén vinculados a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar.
+> Cuanto más profundamente estén vinculados (los hábitos) a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar.
 
 <!--- ### Page 61 @ 16 March 2023 04:34 PM -->
-El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el cambio positivo a cualquier nivel (individual, grupal o social). Los hábitos positivos pueden tener sentido a nivel racional, pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos en práctica.
+El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el cambio positivo a cualquier nivel (individual, grupal o social). **Los hábitos positivos pueden tener sentido a nivel racional, pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos en práctica.**
 
 <!--- ### Page 61 @ 16 March 2023 04:49 PM -->
 El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
