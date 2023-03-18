@@ -46,7 +46,7 @@ En los hábitos que están basados en resultados, el enfoque está en lo que que
 La mayoría de las personas ni siquiera consideran cambiar su identidad cuando se deciden a mejorar. <!--- ### Page 55 @ 16 March 2023 12:13 AM --> Establecen metas y determinan las acciones para alcanzar esas metas, pero ni siquiera consideran las creencias que dirigen sus acciones. Nunca cambian la manera como se conciben a sí mismas, y no se dan cuenta de que su vieja identidad puede sabotear sus planes de cambiar.
 
 <!--- ### Page 56 @ 16 March 2023 12:41 AM -->
-Siempre existe un sistema de creencias y suposiciones que moldean el sistema, una identidad detrás de los hábitos. <!--- Page 56 @ 16 March 2023 12:41 AM --> **La conducta que no es congruente con el yo no será duradera.**
+Siempre existe un sistema de creencias y suposiciones que moldean el sistema, una identidad detrás de los hábitos. <!--- ### Page 56 @ 16 March 2023 12:41 AM --> **La conducta que no es congruente con el yo no será duradera.**
 
 <!--- ### Page 56 @ 16 March 2023 12:42 AM -->
 Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas~~ que te condujeron a las conductas pasadas que deseas cambiar. Tienes una nueva meta y un nuevo plan, pero no te has transformado a ti mismo.
