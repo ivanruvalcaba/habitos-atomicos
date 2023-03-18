@@ -1,4 +1,5 @@
 # Hábitos atómicos
+
 ##### James Clear
 
 ## Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
@@ -66,7 +67,7 @@ Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas
 La forma máxima de motivación ~~intrínseca~~ (esencial) se da cuando un hábito se convierte en parte integral de tu identidad.
 
 <!--- ### Page 57 @ 16 March 2023 09:25 AM -->
-Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto
+Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto.
 
 <!--- ### Page 58 @ 16 March 2023 09:26 AM -->
 Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.
@@ -90,4 +91,3 @@ El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el 
 El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
 
 _Generated at: 2023-03-16-20-38-51_
-
