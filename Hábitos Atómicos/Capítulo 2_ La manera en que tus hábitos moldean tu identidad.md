@@ -1,7 +1,3 @@
-# Hábitos atómicos
-
-##### James Clear
-
 ## Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
 <!--- ### Page 52 @ 15 March 2023 11:45 PM -->
 Cambiar tus hábitos es desafiante por dos motivos: 1) *tratamos de cambiar algo que no es lo que debemos cambiar* y 2) *tratamos de cambiar nuestros hábitos de la manera equivocada*.
