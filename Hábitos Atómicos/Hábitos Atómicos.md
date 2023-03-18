@@ -18,7 +18,7 @@ Cambiar tus hábitos es desafiante por dos motivos: 1) *tratamos de cambiar algo
 Hay que tener en cuenta que existen tres niveles en los que los cambios pueden ocurrir.
 
 <!--- ### Page 53 @ 15 March 2023 11:47 PM -->
-* La primera capa incluye **cambiar tus resultados**. Este nivel se relaciona con el cambio de los resultados. <!--- ### Page 53 @ 15 March 2023 11:47 PM --> La mayoría de las metas que te propones lograr están asociadas con este nivel de cambio.
+* La primera capa incluye **cambiar tus resultados**. Este nivel se relaciona con el cambio de los resultados. {::comment} ### Page 53 @ 15 March 2023 11:47 PM {:/comment} La mayoría de las metas que te propones lograr están asociadas con este nivel de cambio.
 
 <!--- ### Page 53 @ 15 March 2023 11:57 PM -->
 * La segunda capa incluye **cambiar tus procesos**. Este nivel se relaciona con el cambio de hábitos y sistemas. <!--- ### Page 53 @ 15 March 2023 11:58 PM --> La mayoría de los hábitos que desarrollas están asociados con este nivel.
