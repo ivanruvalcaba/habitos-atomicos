@@ -59,7 +59,7 @@ Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas
 Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto. **Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.**
 
 <!--- ### Page 59 @ 16 March 2023 09:28 AM -->
-Cuando tu conducta y tu identidad están completamente sincronizadas, ya no intentas lograr cambios de conducta. Simplemente estás actuando como la persona que tú crees que eres. (*N. del R. «No existe la posibilidad de sufrir un conflicto interno, ya que tu personalidad se define congruentemente.»*)
+Cuando tu conducta y tu identidad están completamente sincronizadas, ya no intentas lograr cambios de conducta. Simplemente estás actuando como la persona que tú crees que eres. (*N. del R. «No existe la posibilidad de que exista conflicto, ya que tu identidad se corresponde congruentemente con tus acciones.»*)
 
 <!--- ### Page 59 @ 16 March 2023 04:30 PM -->
 <!--- ### Page 60 @ 16 March 2023 04:30 PM -->
