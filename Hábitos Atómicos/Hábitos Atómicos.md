@@ -1,4 +1,5 @@
 # Hábitos atómicos
+
 ##### James Clear
 
 ## Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
@@ -45,10 +46,7 @@ En los hábitos que están basados en resultados, el enfoque está en lo que que
 La mayoría de las personas ni siquiera consideran cambiar su identidad cuando se deciden a mejorar. <!--- ### Page 55 @ 16 March 2023 12:13 AM --> Establecen metas y determinan las acciones para alcanzar esas metas, pero ni siquiera consideran las creencias que dirigen sus acciones. Nunca cambian la manera como se conciben a sí mismas, y no se dan cuenta de que su vieja identidad puede sabotear sus planes de cambiar.
 
 <!--- ### Page 56 @ 16 March 2023 12:41 AM -->
-Siempre existe un sistema de creencias y suposiciones que moldean el sistema, una identidad detrás de los hábitos.
-
-<!--- Page 56 @ 16 March 2023 12:41 AM -->
-> La conducta que no es congruente con el yo no será duradera.
+Siempre existe un sistema de creencias y suposiciones que moldean el sistema, una identidad detrás de los hábitos. <!--- Page 56 @ 16 March 2023 12:41 AM --> **La conducta que no es congruente con el yo no será duradera.**
 
 <!--- ### Page 56 @ 16 March 2023 12:42 AM -->
 Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas~~ que te condujeron a las conductas pasadas que deseas cambiar. Tienes una nueva meta y un nuevo plan, pero no te has transformado a ti mismo.
@@ -57,7 +55,7 @@ Es muy difícil cambiar tus hábitos si no cambias las creencias ~~subterráneas
 > La forma máxima de motivación ~~intrínseca~~ se da cuando un hábito se convierte en parte integral de tu identidad.
 
 <!--- ### Page 57 @ 16 March 2023 09:25 AM -->
-Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto. <!--- ### Page 58 @ 16 March 2023 09:26 AM --> Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.
+Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto. <!--- ### Page 58 @ 16 March 2023 09:26 AM --> **Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.**
 
 <!--- ### Page 59 @ 16 March 2023 09:28 AM -->
 Cuando tu conducta y tu identidad están completamente sincronizadas, ya no intentas lograr cambios de conducta. Simplemente estás actuando como la persona que tú crees que eres (*N. del R.* te mantienes de forma congruente).
@@ -75,4 +73,3 @@ El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el 
 El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
 
 _Generated at: 2023-03-18-09-07-30_
-
