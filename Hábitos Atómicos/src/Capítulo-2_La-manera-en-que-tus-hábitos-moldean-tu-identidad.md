@@ -77,3 +77,9 @@ El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el 
 
 <!--- ### Page 61 @ 16 March 2023 04:49 PM -->
 > El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
+
+<!--- ### Page 62 @ 20 March 2023 04:23 PM -->
+## El proceso de dos pasos para cambiar tu identidad
+
+<!--- ### Page 62 @ 20 March 2023 04:23 PM -->
+Tu identidad surge a partir de tus hábitos. No naces con un sistema de creencias preestablecido. Cada creencia, incluido lo que crees acerca de ti mismo, es aprendida y condicionada a partir de la experiencia.
