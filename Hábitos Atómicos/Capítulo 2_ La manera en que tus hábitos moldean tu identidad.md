@@ -1,4 +1,6 @@
-## Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
+# Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
+
+# Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
 <!--- ### Page 52 @ 15 March 2023 11:45 PM -->
 Cambiar tus hábitos resulta desafiante por dos motivos:
 
