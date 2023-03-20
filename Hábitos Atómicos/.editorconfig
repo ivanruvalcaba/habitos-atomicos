@@ -12,6 +12,11 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+# GNU make
+# https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html
+[Makefile]
+indent_style = tab
+
 # Markdown
 [*.md]
 eclint_indent_style = unset
@@ -20,3 +25,9 @@ indent_style = space
 # double whitespace at end of line
 # denotes a line break in Markdown
 trim_trailing_whitespace = false
+
+# TOML
+# https://github.com/toml-lang/toml/tree/master/examples
+[*.toml]
+indent_size = 2
+indent_style = space

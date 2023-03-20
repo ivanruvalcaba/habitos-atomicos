@@ -1,0 +1,6 @@
+[book]
+authors = ["Iván Ruvalcaba"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Hábitos Atómicos"

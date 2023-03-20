@@ -1,3 +1,0 @@
-# Hábitos atómicos
-
-##### James Clear

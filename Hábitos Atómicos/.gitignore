@@ -151,5 +151,8 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,vim,emacs,sublimetext,notepadpp
 
+### mdBook ###
+book
+
 ### Ghostwriter ###
 *.backup
