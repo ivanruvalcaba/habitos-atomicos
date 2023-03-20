@@ -77,5 +77,3 @@ El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el 
 
 <!--- ### Page 61 @ 16 March 2023 04:49 PM -->
 > El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
-
-Foo
