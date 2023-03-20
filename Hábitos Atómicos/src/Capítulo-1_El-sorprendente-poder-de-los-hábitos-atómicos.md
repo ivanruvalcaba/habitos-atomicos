@@ -10,10 +10,8 @@ El éxito es el producto de nuestros hábitos cotidianos, no de transformaciones
 Dicho eso, no importa el éxito que tengas en este preciso momento. Lo que importa es determinar si tus hábitos te están conduciendo hacia el camino del éxito. Debes preocuparte más de la trayectoria que estás siguiendo en el presente que de los resultados que has alcanzado hasta ahora.
 
 <!--- Page 34 @ 03 March 2023 09:27 PM -->
-Tus resultados son los indicadores reactivos de tus hábitos.
-
 <!--- Page 34 @ 09 March 2023 11:58 PM -->
-Al final obtienes lo que repites.
+Tus resultados son los indicadores reactivos de tus hábitos. **Al final obtienes lo que repites.**
 
 <!--- Page 35 @ 26 February 2023 03:37 AM -->
 Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
@@ -22,7 +20,7 @@ Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
 El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
 
 <!--- Page 35 @ 13 March 2023 11:38 PM -->
-##### Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
+## Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
 
 <!--- Page 35 @ 10 March 2023 12:29 PM -->
 
@@ -33,34 +31,34 @@ El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello 
 | **Relaciones sociales:** Las personas reflejan la manera como te comportas con ellas. Cuanto más ayudas a los demás, más querrán ayudarte a ti. Ser un poco más amable en cada interacción con las personas, con el paso del tiempo termina por convertirse en una amplia y duradera red de conexiones. | **Indignación:** Los disturbios, protestas, movimientos de masas rara vez son producto de un acontecimiento aislado. Al contrario, una serie de agresiones menores y afectaciones repetidas se multiplican lentamente hasta que un acontecimiento se convierte en la gota que derrama el vaso y la indignación se extiende como un incendio. |
 
 <!--- Page 36 @ 13 March 2023 11:30 PM -->
-##### En qué consiste realmente el progreso
+## En qué consiste realmente el progreso
 
 <!--- Page 37 @ 13 March 2023 11:18 PM -->
 Los grandes hitos, los momentos definitorios con frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio.
 
 <!--- Page 37 @ 26 February 2023 03:49 AM -->
-El bambú apenas se alcanza a ver durante los primeros cinco años. Durante ese tiempo desarrolla un complejo sistema de raíces que, una vez maduro, le permite crecer más de 2 metros en menos de seis semanas.
+> El bambú apenas se alcanza a ver durante los primeros cinco años. Durante ese tiempo desarrolla un complejo sistema de raíces que, una vez maduro, le permite crecer más de 2 metros en menos de seis semanas.
 
 <!--- Page 38 @ 11 March 2023 07:43 PM -->
 Uno siempre espera realizar progresos de manera lineal y ascendente, por ello es frustrante cuando a lo largo de períodos de días, semanas e incluso meses los cambios parecen no funcionar y uno tiene la sensación de permanecer en el mismo sitio. Es el sello de cualquier proceso acumulativo: los resultados más poderosos toman su tiempo y se retrasan.
 
 <!--- Page 39 @ 10 March 2023 12:08 AM -->
-El trabajo no se desperdicia, solo se acumula.
+## El trabajo no se desperdicia, solo se acumula.
 
 <!--- Page 40 @ 26 February 2023 03:48 AM -->
-Solemos suponer que el progreso se da de manera lineal y ascendente. Por lo menos esperamos que suceda rápido. En la realidad, los resultados de nuestros esfuerzos suelen tomar tiempo y retrasarse. No es sino meses o incluso años después cuando nos damos cuenta del verdadero valor de todo el trabajo que hemos realizado. Esto puede tener como resultado un «abismo de desilusión», un punto en el que la gente se siente descorazonada tras haber invertido semanas o incluso meses de trabajo duro sin experimentar ningún resultado aparente. Sin embargo, su trabajo no se desperdició. Tan solo se acumuló. No es hasta mucho tiempo después cuando el verdadero valor del esfuerzo previo es revelado.
+Solemos suponer que el progreso se da de manera lineal y ascendente. Por lo menos esperamos que suceda rápido. En la realidad, los resultados de nuestros esfuerzos suelen tomar tiempo y retrasarse. **No es sino meses o incluso años después cuando nos damos cuenta del verdadero valor de todo el trabajo que hemos realizado.** Esto puede tener como resultado un «abismo de desilusión», un punto en el que la gente se siente descorazonada tras haber invertido semanas o incluso meses de trabajo duro sin experimentar ningún resultado aparente. Sin embargo, su trabajo no se desperdició. Tan solo se acumuló. No es hasta mucho tiempo después cuando el verdadero valor del esfuerzo previo es revelado.
 
 <!--- Page 42 @ 27 February 2023 12:45 AM -->
-¿Cuál es la diferencia entre metas y sistemas?
+## ¿Cuál es la diferencia entre metas y sistemas?
 
 <!--- Page 42 @ 27 February 2023 12:44 AM -->
-las metas son los resultados que quieres obtener. Los sistemas son los procesos que sigues para alcanzar esos resultados.
+> Las *metas* son los resultados que quieres obtener. Los *sistemas* son los procesos que sigues para alcanzar esos resultados.
 
 <!--- Page 43 @ 26 February 2023 03:55 AM -->
 Un montón de problemas surgen cuando pasas demasiado tiempo pensando en tus metas en lugar de dedicar el tiempo a diseñar tus sistemas.
 
 <!--- Page 44 @ 27 February 2023 12:33 AM -->
-Los ganadores y los perdedores comparten las mismas metas
+> Los ganadores y los perdedores comparten las mismas metas.
 
 <!--- Page 44 @ 26 February 2023 03:54 AM -->
 Si la gente que tiene éxito y la que no lo consigue comparten la misma meta, esta última no puede ser lo que distingue a los ganadores de los perdedores.
