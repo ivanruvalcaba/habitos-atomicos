@@ -22,10 +22,18 @@ Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
 El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
 
 <!--- Page 35 @ 13 March 2023 11:38 PM -->
-tus hábitos actúan de manera acumulativa a tu favor o en tu contra Hábitos acumulativos
+##### Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
+
+<!--- Page 35 @ 10 March 2023 12:29 PM -->
+
+| **Hábitos acumulativos favorables** | **Hábitos acumulativos desfavorables** |
+|---|---|
+| **Productividad:** Lograr terminar una tarea adicional es un pequeño logro en un día determinado, pero cuenta mucho en el transcurso de toda una carrera. El efecto acumulativo de lograr automatizar una tarea antigua para poder dominar una nueva habilidad es aún mayor. Cuantas más tareas seas capaz de realizar de manera automática, sin tener que pensar, más libertad tendrá tu cerebro para centrarse en otras áreas. | **Estrés:** La frustración de un atasco, el peso de las responsabilidades de ser padres, la tensión de no llegar a fin de mes, la preocupación que produce tener la presión arterial un poco más alta de lo normal, etcétera. Por sí solas estas causas de estrés son tolerables, pero si persisten durante años, estas pequeñas preocupaciones se acumulan y se convierten en problemas de salud muy graves.  |
+| **Conocimiento:** Aprender una nueva idea no te convierte en un genio, pero mantener un compromiso de aprender algo cada día durante tu vida se convierte en una fuerza transformadora. Cada libro que lees no solo te enseña algo nuevo, también te estimula a repensar de manera distinta las viejas ideas. Como dice Warren Buffett: «Esta es la manera como el conocimiento funciona. Se va acumulando, como el interés compuesto del dinero invertido». | **Pensamientos negativos:** Cuanto más te consideras a ti mismo despreciable, carente de valor, tonto o feo, más te condicionas a interpretar la vida de la misma manera. Tu pensamiento queda atrapado en un círculo vicioso. Lo mismo ocurre con tu manera de pensar acerca de los demás. Una vez que caes en el hábito de considerar a las personas como malhumoradas, injustas o egoístas, empiezas a ver a ese tipo de personas en todas partes. |
+| **Relaciones sociales:** Las personas reflejan la manera como te comportas con ellas. Cuanto más ayudas a los demás, más querrán ayudarte a ti. Ser un poco más amable en cada interacción con las personas, con el paso del tiempo termina por convertirse en una amplia y duradera red de conexiones. | **Indignación:** Los disturbios, protestas, movimientos de masas rara vez son producto de un acontecimiento aislado. Al contrario, una serie de agresiones menores y afectaciones repetidas se multiplican lentamente hasta que un acontecimiento se convierte en la gota que derrama el vaso y la indignación se extiende como un incendio. |
 
 <!--- Page 36 @ 13 March 2023 11:30 PM -->
-en qué consiste realmente el progreso
+##### En qué consiste realmente el progreso
 
 <!--- Page 37 @ 13 March 2023 11:18 PM -->
 Los grandes hitos, los momentos definitorios con frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio.
