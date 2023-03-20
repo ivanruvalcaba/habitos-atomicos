@@ -1,6 +1,9 @@
 ## Capítulo 2. La manera en que tus hábitos moldean tu identidad (y viceversa)
 <!--- ### Page 52 @ 15 March 2023 11:45 PM -->
-Cambiar tus hábitos es desafiante por dos motivos: 1) *tratamos de cambiar algo que no es lo que debemos cambiar* y 2) *tratamos de cambiar nuestros hábitos de la manera equivocada*.
+Cambiar tus hábitos resulta desafiante por dos motivos:
+
+1) tratamos de cambiar algo que no es lo que debemos cambiar y
+2) tratamos de cambiar nuestros hábitos de la manera equivocada.
 
 <!--- ### Page 52 @ 15 March 2023 11:46 PM -->
 > Nuestro primer error consiste en tratar de cambiar algo que no es lo que debemos cambiar.
