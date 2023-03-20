@@ -83,3 +83,8 @@ El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el 
 
 <!--- ### Page 62 @ 20 March 2023 04:23 PM -->
 Tu identidad surge a partir de tus hábitos. No naces con un sistema de creencias preestablecido. Cada creencia, incluido lo que crees acerca de ti mismo, es aprendida y condicionada a partir de la experiencia.
+
+<!--- ### Page 62 @ 20 March 2023 04:24 PM -->
+<!--- ### Page 62 @ 20 March 2023 04:24 PM -->
+<!--- ### Page 62 @ 20 March 2023 04:25 PM -->
+Para ser más preciso, tus hábitos son la manera como encarnas tu identidad. Cuanto más repites una conducta, más refuerzas la identidad asociada con dicha conducta. Cualquiera que sea tu identidad en este momento, tú crees en ella porque tienes evidencia de que existe.
