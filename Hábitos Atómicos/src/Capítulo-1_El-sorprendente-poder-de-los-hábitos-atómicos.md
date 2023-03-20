@@ -48,11 +48,12 @@ Uno siempre espera realizar progresos de manera lineal y ascendente, por ello es
 <!--- ### Page 40 @ 26 February 2023 03:48 AM -->
 Solemos suponer que el progreso se da de manera lineal y ascendente. Por lo menos esperamos que suceda rápido. En la realidad, los resultados de nuestros esfuerzos suelen tomar tiempo y retrasarse. **No es sino meses o incluso años después cuando nos damos cuenta del verdadero valor de todo el trabajo que hemos realizado.** Esto puede tener como resultado un «abismo de desilusión», un punto en el que la gente se siente descorazonada tras haber invertido semanas o incluso meses de trabajo duro sin experimentar ningún resultado aparente. Sin embargo, su trabajo no se desperdició. Tan solo se acumuló. No es hasta mucho tiempo después cuando el verdadero valor del esfuerzo previo es revelado.
 
-<!--- ### Page 42 @ 27 February 2023 12:45 AM -->
-## ¿Cuál es la diferencia entre metas y sistemas?
+<!--- ### Page 41 @ 20 March 2023 02:32 PM-->
+## Olvida las metas y mejor céntrate en los sistemas
 
+<!--- ### Page 42 @ 27 February 2023 12:45 AM -->
 <!--- ### Page 42 @ 27 February 2023 12:44 AM -->
-> Las *metas* son los resultados que quieres obtener. Los *sistemas* son los procesos que sigues para alcanzar esos resultados.
+¿Cuál es la diferencia entre metas y sistemas? Las *metas* son los resultados que quieres obtener. Los *sistemas* son los procesos que sigues para alcanzar esos resultados.
 
 <!--- ### Page 43 @ 26 February 2023 03:55 AM -->
 Un montón de problemas surgen cuando pasas demasiado tiempo pensando en tus metas en lugar de dedicar el tiempo a diseñar tus sistemas.
