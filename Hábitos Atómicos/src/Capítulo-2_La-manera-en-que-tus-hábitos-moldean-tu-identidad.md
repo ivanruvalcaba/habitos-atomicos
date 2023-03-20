@@ -42,7 +42,7 @@ Hay que tener en cuenta que existen tres niveles en los que los cambios pueden o
 ![](img/hábitos-basados-en-la-identidad.png)
 
 <!--- ### Page 54 @ 16 March 2023 08:38 PM -->
-En los hábitos que están basados en resultados, el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad, el enfoque está en quién queremos llegar a ser.
+> En los hábitos que están basados en resultados, el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad, el enfoque está en quién queremos llegar a ser.
 
 <!--- ### Page 55 @ 16 March 2023 12:13 AM -->
 <!--- ### Page 55 @ 16 March 2023 12:13 AM -->
