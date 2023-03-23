@@ -10,10 +10,11 @@ El éxito es el producto de nuestros hábitos cotidianos, no de transformaciones
 Dicho eso, no importa el éxito que tengas en este preciso momento. Lo que importa es determinar si tus hábitos te están conduciendo hacia el camino del éxito. Debes preocuparte más de la trayectoria que estás siguiendo en el presente que de los resultados que has alcanzado hasta ahora.
 
 <!--- ### Page 34 @ 03 March 2023 09:27 PM -->
-<!--- ### Page 34 @ 09 March 2023 11:58 PM -->
+Tus resultados son los indicadores reactivos de tus hábitos. La cantidad de dinero que posees es un indicador reactivo de tus hábitos financieros. Tu peso actual es un indicador reactivo de tus hábitos alimenticios. Tu conocimiento es un indicador reactivo de tus hábitos de estudio. El aspecto de tu casa es un indicador reactivo de tus hábitos de orden y limpieza. **Al final obtienes lo que repites.**
+
 <!--- ### Page 35 @ 26 February 2023 03:37 AM -->
 <!--- ### Page 35 @ 10 March 2023 12:00 AM -->
-Tus resultados son los indicadores reactivos de tus hábitos. **Al final obtienes lo que repites.** Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro. El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
+Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro. El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
 
 <!--- ### Page 35 @ 13 March 2023 11:38 PM -->
 ## Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
