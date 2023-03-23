@@ -11,13 +11,9 @@ Dicho eso, no importa el éxito que tengas en este preciso momento. Lo que impor
 
 <!--- ### Page 34 @ 03 March 2023 09:27 PM -->
 <!--- ### Page 34 @ 09 March 2023 11:58 PM -->
-Tus resultados son los indicadores reactivos de tus hábitos. **Al final obtienes lo que repites.**
-
 <!--- ### Page 35 @ 26 February 2023 03:37 AM -->
-Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
-
 <!--- ### Page 35 @ 10 March 2023 12:00 AM -->
-El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
+Tus resultados son los indicadores reactivos de tus hábitos. **Al final obtienes lo que repites.** Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro. El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
 
 <!--- ### Page 35 @ 13 March 2023 11:38 PM -->
 ## Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
