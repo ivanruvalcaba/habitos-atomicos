@@ -13,8 +13,10 @@ Dicho eso, no importa el éxito que tengas en este preciso momento. Lo que impor
 Tus resultados son los indicadores reactivos de tus hábitos. La cantidad de dinero que posees es un indicador reactivo de tus hábitos financieros. Tu peso actual es un indicador reactivo de tus hábitos alimenticios. Tu conocimiento es un indicador reactivo de tus hábitos de estudio. El aspecto de tu casa es un indicador reactivo de tus hábitos de orden y limpieza. **Al final obtienes lo que repites.**
 
 <!--- ### Page 35 @ 26 February 2023 03:37 AM -->
+> Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.
+
 <!--- ### Page 35 @ 10 March 2023 12:00 AM -->
-Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro. El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.
+El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia. Los buenos hábitos terminan siendo tus aliados. Los malos hábitos acaban por convertirse en enemigos.
 
 <!--- ### Page 35 @ 13 March 2023 11:38 PM -->
 ## Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
