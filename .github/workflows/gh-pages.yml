@@ -1,3 +1,15 @@
+# Copyright (C) 2023  Iván Ruvalcaba <ivanruvalcaba[at]disroot[dot]org>
+#
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice and this notice are preserved.  This file is offered as-is,
+# without any warranty.
+#
+# See the FSF All-Permissive License for more details
+# <https://spdx.org/licenses/FSFAP.html>.
+#
+# https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-mdbook-rust
+
 name: Publish to GitHub Pages
 
 on:
@@ -7,11 +19,13 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-20.04
+    permissions:
+      contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Check out 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup mdBook 🔧
         uses: peaceiris/actions-mdbook@v1
@@ -27,3 +41,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./book
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: ${{ github.event.head_commit.message }}
