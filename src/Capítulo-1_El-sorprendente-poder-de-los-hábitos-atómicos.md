@@ -74,14 +74,17 @@ Un montón de problemas surgen cuando pasas demasiado tiempo pensando en tus met
 <!--- ### Page 44 @ 27 February 2023 12:33 AM -->
 * *Problema 1:* Los ganadores y los perdedores comparten las mismas metas.
 
+<!--- ### Page 44 @ 26 March 2023 10:57 AM -->
+Tenemos serios prejuicios cuando se trata de juzgar las metas de los demás. *Tendemos a confundir éxito con supervivencia.* Nos concentramos en las personas que logran ganar —los supervivientes— y de manera equivocada asumimos que sus ambiciosas metas los condujeron al triunfo. Al hacerlo, no nos damos cuenta de que muchas otras personas tenían la misma meta pero no consiguieron el éxito.
+
 <!--- ### Page 44 @ 26 February 2023 03:54 AM -->
-Si la gente que tiene éxito y la que no lo consigue comparten la misma meta, esta última no puede ser lo que distingue a los ganadores de los perdedores.
+Todos los atletas olímpicos desean ganar una medalla de oro. Todos los candidatos quieren obtener el empleo. Si la gente que tiene éxito y la que no lo consigue comparten la misma meta, esta última no puede ser lo que distingue a los ganadores de los perdedores.
 
 <!--- ### Page 45 @ 27 February 2023 12:34 AM -->
 * *Problema 2:* Alcanzar una meta consiste únicamente en un cambio momentáneo.
 
 <!--- ### Page 45 @ 27 February 2023 12:36 AM -->
-Cuando logras alcanzar una meta, tu vida cambia únicamente durante un momento. Esa es la paradoja de las mejoras. **Pensamos que debemos cambiar los resultados pero los resultados no son el problema. Lo que realmente necesitamos cambiar son los sistemas que nos llevan a tener esos resultados. Cuando resuelves problemas a partir de los resultados, solamente los resuelves de manera momentánea.**
+Cuando logras alcanzar una meta, tu vida cambia únicamente durante un momento. Esa es la paradoja de las mejoras. *Pensamos que debemos cambiar los resultados pero los resultados no son el problema. Lo que realmente necesitamos cambiar son los sistemas que nos llevan a tener esos resultados.* Cuando resuelves problemas a partir de los resultados, solamente los resuelves de manera momentánea.
 
 <!--- ### Page 45 @ 26 February 2023 03:58 AM -->
 > Arregla los sistemas y los resultados se arreglarán por sí mismos.
