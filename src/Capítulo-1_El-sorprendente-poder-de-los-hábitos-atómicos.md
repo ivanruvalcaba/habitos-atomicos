@@ -51,7 +51,7 @@ Para que los hábitos realmente generen un cambio, deben subsistir lo suficiente
 > El trabajo no se desperdicia, solo se acumula.
 
 <!--- ### Page 39 @ 20 March 2023 03:53 PM -->
-Cuando al fin logras ir más allá de la meseta del potencial latente, la gente considera que el hecho es un éxito conseguido de la noche a la mañana. La mayoría de la gente solo percibe los eventos más llamativos y no se detiene a ver todo el trabajo y el esfuerzo que tienen detrás. Pero tú sabes que todo el trabajo que has invertido durante mucho tiempo, cuando parecía que no estabas haciendo ningún progreso, es lo que realmente hizo posible el cambio.
+Cuando al fin logras ir más allá de «la meseta del potencial latente», la gente considera que el hecho es un éxito conseguido de la noche a la mañana. La mayoría de la gente solo percibe los eventos más llamativos y no se detiene a ver todo el trabajo y el esfuerzo que tienen detrás. Pero únicamente tú sabes que todo el trabajo que has invertido durante mucho tiempo, cuando parecía que no estabas haciendo ningún progreso, es lo que realmente hizo posible el cambio.
 
 <!--- ### Page 40 @ 20 March 2023 03:43 PM -->
 ## La meseta de potencial latente
