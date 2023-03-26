@@ -30,7 +30,7 @@ Tus resultados son los indicadores reactivos de tus hábitos. La cantidad de din
 | **Relaciones sociales:** Las personas reflejan la manera como te comportas con ellas. Cuanto más ayudas a los demás, más querrán ayudarte a ti. Ser un poco más amable en cada interacción con las personas, con el paso del tiempo termina por convertirse en una amplia y duradera red de conexiones. | **Indignación:** Los disturbios, protestas, movimientos de masas rara vez son producto de un acontecimiento aislado. Al contrario, una serie de agresiones menores y afectaciones repetidas se multiplican lentamente hasta que un acontecimiento se convierte en la gota que derrama el vaso y la indignación se extiende como un incendio. |
 
 <!--- ### Page 36 @ 13 March 2023 11:30 PM -->
-## En qué consiste realmente el progreso
+## ¿En qué consiste realmente el progreso?
 
 <!--- ### Page 37 @ 13 March 2023 11:18 PM -->
 Los grandes hitos, los momentos definitorios con frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio.
