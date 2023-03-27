@@ -102,7 +102,7 @@ Es más, *la mentalidad que se rige por la consecución de metas acaba por crear
 > No tiene sentido que restrinjas tu felicidad y satisfacción a un solo escenario, cuando existen muchos caminos que conducen al éxito.
 
 <!--- ### Page 46 @ 27 February 2023 12:28 AM -->
-Una mentalidad que privilegia los sistemas te proporciona un antídoto. **Cuando te enamoras del proceso más que del producto final, no tienes que esperar hasta el desenlace para permitirte ser feliz.** Puedes sentirte satisfecho y feliz siempre que tu sistema esté funcionando. Y los sistemas pueden funcionar bien de muchas maneras distintas, no solamente de la manera en que lo concebiste al principio.
+Una mentalidad que privilegia los sistemas te proporciona un antídoto. *Cuando te enamoras del proceso más que del producto final, no tienes que esperar hasta el desenlace para permitirte ser feliz. Puedes sentirte satisfecho y feliz siempre que tu sistema esté funcionando.* Y los sistemas pueden funcionar bien de muchas maneras distintas, no solamente de la manera en que lo concebiste al principio.
 
 <!--- ### Page 47 @ 27 February 2023 12:29 AM -->
 * Problema 4: *Las metas no coinciden con el progreso a largo plazo.*
@@ -111,7 +111,7 @@ Una mentalidad que privilegia los sistemas te proporciona un antídoto. **Cuando
 Cuando todo tu trabajo se centra en una meta en particular, ¿qué queda para motivarte una vez que la alcanzas? Esta es la razón por la cual muchas personas regresan a sus viejos hábitos malos una vez que alcanzan una meta.
 
 <!--- ### Page 47 @ 27 February 2023 12:31 AM -->
-**El propósito de definir metas consiste en convertirse en un ganador de una sola ocasión.** El propósito de construir sistemas consiste en seguir participando en el juego. La mentalidad que verdaderamente se centra en el largo plazo no se centra en el cumplimiento de metas. No se trata de alcanzar metas aisladas. Se trata de un ciclo de refinamiento interminable y de mejora continua. Por encima de todo, tu compromiso con el proceso es lo que va a determinar tu progreso.
+*El propósito de definir metas consiste en convertirse en un ganador de una sola ocasión. El propósito de construir sistemas consiste en seguir participando en el juego.* La mentalidad que verdaderamente se centra en el largo plazo no se centra en el cumplimiento de metas. No se trata de alcanzar metas aisladas. Se trata de un ciclo de refinamiento interminable y de mejora continua. Por encima de todo, *tu compromiso con el proceso es lo que va a determinar tu progreso.*
 
 <!--- ### Page 48 @ 20 March 2023 01:55 PM -->
 ## Un sistema de hábitos atómicos
