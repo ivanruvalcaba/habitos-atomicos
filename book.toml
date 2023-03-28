@@ -7,7 +7,6 @@ multilingual = false
 src = "src"
 
 [output.html]
-no-section-label = true
 git-repository-url = "https://github.com/ivanruvalcaba/habitos-atomicos"
 git-repository-icon = "fa-code-fork"
 edit-url-template = "https://github.com/ivanruvalcaba/habitos-atomicos/edit/main/{path}"
