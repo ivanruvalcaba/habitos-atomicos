@@ -1,4 +1,3 @@
-<!--- ### Page 35 @ 13 March 2023 11:38 PM -->
 # Tus hábitos actúan de manera acumulativa a tu favor o en tu contra
 
 <!--- ### Page 35 @ 10 March 2023 12:29 PM -->
