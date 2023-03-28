@@ -1,4 +1,3 @@
-<!--- ### Page 36 @ 13 March 2023 11:30 PM -->
 # ¿En qué consiste realmente el progreso?
 
 <!--- ### Page 37 @ 13 March 2023 11:18 PM -->
