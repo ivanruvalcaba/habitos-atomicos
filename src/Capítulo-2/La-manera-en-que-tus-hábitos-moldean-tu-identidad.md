@@ -32,12 +32,12 @@ Hay que tener en cuenta que *existen tres niveles* en los que los cambios pueden
 *Los resultados tienen que ver con lo que obtienes. Los procesos tienen que ver con lo que haces. La identidad tiene que ver con lo que crees.* Cuando se trata de desarrollar hábitos perdurables —es decir, cuando se trata de desarrollar un sistema de un 1% de mejora—, el problema no radica en definir si un nivel es mejor o peor que otro. El verdadero problema radica en la dirección que sigue el cambio.
 
 <!--- ### Page 53 @ 16 March 2023 08:38 PM -->
-## Hábitos basados en resultados
+**Hábitos basados en resultados**
 
 ![](img/hábitos-basados-en-resultados.png)
 
 <!--- ### Page 54 @ 16 March 2023 08:38 PM -->
-## Hábitos basados en la identidad
+**Hábitos basados en la identidad**
 
 ![](img/hábitos-basados-en-la-identidad.png)
 
