@@ -1,4 +1,3 @@
-<!--- ### Page 62 @ 20 March 2023 04:23 PM -->
 # El proceso de dos pasos para cambiar tu identidad
 
 <!--- ### Page 62 @ 20 March 2023 04:23 PM -->
