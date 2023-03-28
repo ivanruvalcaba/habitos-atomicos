@@ -1,4 +1,3 @@
-<!--- ### Page 49 @ 20 March 2023 02:26 PM -->
 # Resumen del capítulo
 
 * Los hábitos son el interés compuesto de la superación personal. Trabajar para lograr ser un 1% mejor cada día cuenta mucho a la larga.
