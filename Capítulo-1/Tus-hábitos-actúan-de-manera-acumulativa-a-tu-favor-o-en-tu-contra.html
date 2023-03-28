@@ -1,0 +1,213 @@
+<!DOCTYPE HTML>
+<html lang="es" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Tus hábitos actúan de manera acumulativa a tu favor o en tu contra - Hábitos Atómicos</title>
+		<meta name="robots" content="noindex, nofollow" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="Síntesis del libro «Hábitos Atómicos» de James Clear.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../Capítulo-1/El-sorprendente-poder-de-los-hábitos-atómicos.html"><strong aria-hidden="true">1.</strong> El sorprendente poder de los hábitos atómicos</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Capítulo-1/Tus-hábitos-actúan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra.html" class="active"><strong aria-hidden="true">1.1.</strong> Tus hábitos actúan de manera acumulativa a tu favor o en tu contra</a></li><li class="chapter-item expanded "><a href="../Capítulo-1/En-qué-consiste-realmente-el-progreso.html"><strong aria-hidden="true">1.2.</strong> ¿En qué consiste realmente el progreso?</a></li><li class="chapter-item expanded "><a href="../Capítulo-1/La-meseta-de-potencial-latente.html"><strong aria-hidden="true">1.3.</strong> La meseta de potencial latente</a></li><li class="chapter-item expanded "><a href="../Capítulo-1/Olvida-las-metas-y-mejor-céntrate-en-los-sistemas.html"><strong aria-hidden="true">1.4.</strong> Olvida las metas y mejor céntrate en los sistemas</a></li><li class="chapter-item expanded "><a href="../Capítulo-1/Un-sistema-de-hábitos-atómicos.html"><strong aria-hidden="true">1.5.</strong> Un sistema de hábitos atómicos</a></li><li class="chapter-item expanded "><a href="../Capítulo-1/Resumen-del-capítulo.html"><strong aria-hidden="true">1.6.</strong> Resumen del capítulo</a></li></ol></li><li class="chapter-item expanded "><a href="../Capítulo-2/La-manera-en-que-tus-hábitos-moldean-tu-identidad.html"><strong aria-hidden="true">2.</strong> La manera en que tus hábitos moldean tu identidad (y viceversa)</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../Capítulo-2/El-proceso-de-dos-pasos-para-cambiar-tu-identidad.html"><strong aria-hidden="true">2.1.</strong> El proceso de dos pasos para cambiar tu identidad</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Hábitos Atómicos</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/ivanruvalcaba/habitos-atomicos" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-code-fork"></i>
+                        </a>
+                        <a href="https://github.com/ivanruvalcaba/habitos-atomicos/edit/main/src/Capítulo-1/Tus-hábitos-actúan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <!--- ### Page 35 @ 13 March 2023 11:38 PM -->
+<h1 id="tus-hábitos-actúan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra"><a class="header" href="#tus-hábitos-actúan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra">Tus hábitos actúan de manera acumulativa a tu favor o en tu contra</a></h1>
+<!--- ### Page 35 @ 10 March 2023 12:29 PM -->
+<div class="table-wrapper"><table><thead><tr><th><strong>Hábitos acumulativos favorables</strong></th><th><strong>Hábitos acumulativos desfavorables</strong></th></tr></thead><tbody>
+<tr><td><strong>Productividad:</strong> Lograr terminar una tarea adicional es un pequeño logro en un día determinado, pero cuenta mucho en el transcurso de toda una carrera. El efecto acumulativo de lograr automatizar una tarea antigua para poder dominar una nueva habilidad es aún mayor. Cuantas más tareas seas capaz de realizar de manera automática, sin tener que pensar, más libertad tendrá tu cerebro para centrarse en otras áreas.</td><td><strong>Estrés:</strong> La frustración de un atasco, el peso de las responsabilidades de ser padres, la tensión de no llegar a fin de mes, la preocupación que produce tener la presión arterial un poco más alta de lo normal, etcétera. Por sí solas estas causas de estrés son tolerables, pero si persisten durante años, estas pequeñas preocupaciones se acumulan y se convierten en problemas de salud muy graves.</td></tr>
+<tr><td><strong>Conocimiento:</strong> Aprender una nueva idea no te convierte en un genio, pero mantener un compromiso de aprender algo cada día durante tu vida se convierte en una fuerza transformadora. Cada libro que lees no solo te enseña algo nuevo, también te estimula a repensar de manera distinta las viejas ideas. Como dice Warren Buffett: «Esta es la manera como el conocimiento funciona. Se va acumulando, como el interés compuesto del dinero invertido».</td><td><strong>Pensamientos negativos:</strong> Cuanto más te consideras a ti mismo despreciable, carente de valor, tonto o feo, más te condicionas a interpretar la vida de la misma manera. Tu pensamiento queda atrapado en un círculo vicioso. Lo mismo ocurre con tu manera de pensar acerca de los demás. Una vez que caes en el hábito de considerar a las personas como malhumoradas, injustas o egoístas, empiezas a ver a ese tipo de personas en todas partes.</td></tr>
+<tr><td><strong>Relaciones sociales:</strong> Las personas reflejan la manera como te comportas con ellas. Cuanto más ayudas a los demás, más querrán ayudarte a ti. Ser un poco más amable en cada interacción con las personas, con el paso del tiempo termina por convertirse en una amplia y duradera red de conexiones.</td><td><strong>Indignación:</strong> Los disturbios, protestas, movimientos de masas rara vez son producto de un acontecimiento aislado. Al contrario, una serie de agresiones menores y afectaciones repetidas se multiplican lentamente hasta que un acontecimiento se convierte en la gota que derrama el vaso y la indignación se extiende como un incendio.</td></tr>
+</tbody></table>
+</div>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../Capítulo-1/El-sorprendente-poder-de-los-hábitos-atómicos.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../Capítulo-1/En-qué-consiste-realmente-el-progreso.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../Capítulo-1/El-sorprendente-poder-de-los-hábitos-atómicos.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../Capítulo-1/En-qué-consiste-realmente-el-progreso.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
