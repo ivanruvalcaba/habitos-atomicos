@@ -1,4 +1,3 @@
-<!--- ### Page 41 @ 20 March 2023 02:32 PM-->
 # Olvida las metas y mejor céntrate en los sistemas
 
 <!--- ### Page 42 @ 27 February 2023 12:45 AM -->
