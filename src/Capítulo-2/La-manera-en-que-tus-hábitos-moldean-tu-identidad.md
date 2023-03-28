@@ -70,10 +70,10 @@ Cuando tu conducta y tu identidad están completamente sincronizadas, ya no inte
 Sin embargo, como todos los aspectos de la formación de hábitos, este también es un arma de doble filo. Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias.
 
 <!--- ### Page 60 @ 16 March 2023 04:30 PM -->
-> Cuanto más profundamente estén vinculados (los hábitos) a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar.
+> Cuanto más profundamente estén vinculados (tanto los hábitos positivos o negativos) a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar.
 
 <!--- ### Page 61 @ 16 March 2023 04:34 PM -->
 El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el cambio positivo a cualquier nivel (individual, grupal o social). *Los hábitos positivos pueden tener sentido a nivel racional, pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos en práctica.*
 
 <!--- ### Page 61 @ 16 March 2023 04:49 PM -->
-> El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
+El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
