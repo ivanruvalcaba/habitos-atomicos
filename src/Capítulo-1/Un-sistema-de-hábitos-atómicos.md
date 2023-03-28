@@ -1,4 +1,3 @@
-<!--- ### Page 48 @ 20 March 2023 01:55 PM -->
 # Un sistema de hábitos atómicos
 
 <!--- ### Page 48 @ 27 February 2023 12:38 AM -->
