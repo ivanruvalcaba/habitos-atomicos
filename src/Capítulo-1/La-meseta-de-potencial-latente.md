@@ -1,4 +1,3 @@
-<!--- ### Page 40 @ 20 March 2023 03:43 PM -->
 # La meseta de potencial latente
 
 ![](img/meseta-de-potencial-latente.png)
