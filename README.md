@@ -10,4 +10,4 @@ ISBN: 9788418118098
 
 ## Licencia
 
-Salvo que se indique lo contrario, el contenido de este sitio está sujeto a una licencia de [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.es) (CC0 1.0 DEED).
+Salvo que se indique lo contrario, el contenido de este sitio está sujeto a una licencia [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.es) (CC0 1.0 DEED).
