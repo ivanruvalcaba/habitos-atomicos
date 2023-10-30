@@ -1,5 +1,3 @@
-# Hábitos atómicos
-
 > Síntesis del libro «Hábitos atómicos» de James Clear.
 
 ## Referencia bibliográfica
@@ -10,4 +8,4 @@ ISBN: 9788418118098
 
 ## Licencia
 
-Salvo que se indique lo contrario, el contenido de este sitio está sujeto a una licencia [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.es) (CC0 1.0 DEED).
+Salvo que se indique lo contrario, el contenido de este repositorio está sujeto a una licencia [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.es) (CC0 1.0 DEED).
