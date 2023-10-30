@@ -1,6 +1,6 @@
 # Hábitos atómicos
 
-> Resumen del libro «Hábitos atómicos» — James Clear.
+> Síntesis del libro «Hábitos atómicos» de James Clear.
 
 ## Referencia bibliográfica
 
