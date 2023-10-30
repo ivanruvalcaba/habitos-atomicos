@@ -4,7 +4,7 @@
 
 ## Referencia bibliográfica
 
-Clear, J. (2020). Hábitos atómicos: Cambios pequeños, resultados extraordinarios. Diana Editorial.
+Clear, J. (2020). _Hábitos atómicos: Cambios pequeños, resultados extraordinarios._ Diana Editorial.
 
 ISBN: 9788418118098
 
