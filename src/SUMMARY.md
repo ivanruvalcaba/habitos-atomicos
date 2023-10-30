@@ -10,4 +10,4 @@
 - [La manera en que tus hábitos moldean tu identidad (y viceversa)](./Capítulo-2/La-manera-en-que-tus-hábitos-moldean-tu-identidad.md)
     - [El proceso de dos pasos para cambiar tu identidad](./Capítulo-2/El-proceso-de-dos-pasos-para-cambiar-tu-identidad.md)
 ----
-- [Glosario](./Glosario/Glosario.md)
+[Glosario](./Glosario/Glosario.md)
