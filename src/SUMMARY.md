@@ -1,8 +1,8 @@
 # Sumario
 
-- [Por qué los pequeños hábitos generan una gran diferencia](./Capítulo-1/Por-qué-los-pequeños-hábitos-generan-una-gran-diferencia.md)
+- [El sorprendente poder de los hábitos atómicos]()
+    - [Por qué los pequeños hábitos generan una gran diferencia](./Capítulo-1/Por-qué-los-pequeños-hábitos-generan-una-gran-diferencia.md)
 ----
-- [El sorprendente poder de los hábitos atómicos](./Capítulo-1/El-sorprendente-poder-de-los-hábitos-atómicos.md)
     - [Tus hábitos actúan de manera acumulativa a tu favor o en tu contra](./Capítulo-1/Tus-hábitos-actúan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra.md)
     - [¿En qué consiste realmente el progreso?](./Capítulo-1/En-qué-consiste-realmente-el-progreso.md)
     - [La meseta de potencial latente](./Capítulo-1/La-meseta-de-potencial-latente.md)
