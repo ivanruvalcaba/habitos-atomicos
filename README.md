@@ -4,6 +4,8 @@
 
 ## Referencia bibliográfica
 
+> **Nota:** La referencia que aparece al inicio de cada párrafo es la ofrecida por [Librera Reader](https://librera.mobi/es), misma que no necesariamente debe ser idéntica a la proporcionada por la aplicación calibre.
+
 Clear, J. (2020). _Hábitos atómicos: Cambios pequeños, resultados extraordinarios._ Diana Editorial.
 
 ISBN: 9788418118098
