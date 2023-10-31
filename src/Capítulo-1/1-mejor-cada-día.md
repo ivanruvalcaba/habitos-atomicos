@@ -19,4 +19,4 @@
 
 |9.31| **El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.** Los buenos hábitos terminan siendo tus aliados. Los malos hábitos acaban por convertirse en enemigos.
 
-[^§]: _Reactivo:_ respuesta a un impulso o estímulo.
+[^§]: _reactivo:_ respuesta a un impulso o estímulo.
