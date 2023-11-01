@@ -13,4 +13,4 @@ https://web.archive.org/web/20231031040704/https://blogs.20minutos.es/mati-una-p
 
 |9.16| Los hábitos son el interés compuesto de la superación personal. De la misma manera en que el dinero se multiplica mediante el interés compuesto, los efectos de tus hábitos se multiplican en la medida en que los repites cada día. No parecen marcar mucha diferencia en un día determinado y, sin embargo, el impacto que producen conforme pasan los meses y los años puede resultar enorme. Solamente cuando miramos atrás y contemplamos los últimos dos, o cinco o quizá diez años, nos damos cuenta y nos quedamos sorprendidos del valor de los buenos hábitos y del coste negativo de los malos hábitos.
 
-[^∆]: «Si las ganancias fueran lineales, podrías predecir una mejoría de 3.65× de mejoría. Pero como las ganancias son exponenciales, la mejora es en realidad 10× mejor» — _Jason Shen_ (emprendedor y escritor).
+[^∆]: «Si las ganancias fueran lineales, podrías predecir una mejoría de 3.65x de mejoría. Pero como las ganancias son exponenciales, la mejora es en realidad 10x mejor» — _Jason Shen_ (emprendedor y escritor).
