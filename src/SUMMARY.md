@@ -6,4 +6,4 @@
 
 ---
 
-[Glosario](./Glosario/Glosario.md)
+[Glosario](./Glosario/index.md)
