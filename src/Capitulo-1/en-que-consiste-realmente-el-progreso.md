@@ -1,0 +1,5 @@
+# En qué consiste realmente el progreso
+
+|9.42| Los grandes hitos, los momentos definitorios, con frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio. Este mismo patrón se repite en todas partes. El cáncer es indetectable el 80% del tiempo desde que surge hasta que, en un momento dado, en cuestión de meses, acaba con el cuerpo[^1]. El bambú apenas se alcanza a ver durante los primeros cinco años. Durante ese tiempo desarrolla un complejo sistema de raíces que, una vez maduro, le permite crecer más de 2 metros en menos de seis semanas.
+
+[^1]: «How to live a longer, higher quality life, with Peter Attia, M.D.», Investor’s Field Guide, 7 de marzo de 2017, <http://investorfieldguide.com/attia> [Cómo vivir una vida más larga y de alta calidad, con el Dr. Peter Attia].
