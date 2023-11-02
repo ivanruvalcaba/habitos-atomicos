@@ -1,7 +1,7 @@
 # 1% mejor cada día
 
-![FIGURA 1. Los efectos de los pequeños hábitos a lo largo del tiempo. Por ejemplo, si logras ser solamente un 1% mejor cada día, terminarás siendo 37 veces mejor al finalizar el año.](images/efectos-de-los-pequenos-habitos-a-lo-largo-del-tiempo.jpg)
-**FIGURA 1.** _Los efectos de los pequeños hábitos a lo largo del tiempo. Por ejemplo, si logras ser solamente un 1% mejor cada día, terminarás siendo 37 veces mejor al finalizar el año._
+![FIGURA 1. Los efectos de los pequeños hábitos a lo largo del tiempo. Por ejemplo, si logras ser solamente un 1% mejor cada día, terminarás siendo 37 veces mejor al finalizar el año.](./attachments/images/efectos-de-los-pequenos-habitos-a-lo-largo-del-tiempo.jpg)
+**FIGURA 1.** *Los efectos de los pequeños hábitos a lo largo del tiempo. Por ejemplo, si logras ser solamente un 1% mejor cada día, terminarás siendo 37 veces mejor al finalizar el año.*
 
 |9.23| Esto puede ser un concepto difícil de apreciar en la vida cotidiana. Frecuentemente descartamos los pequeños cambios porque no parecen importar mucho en un momento dado. Si ahorras un poco de dinero ahora, no te conviertes en millonario. Si vas al gimnasio tres días consecutivos, no te vas a poner en forma. Si estudias chino mandarín una hora por la noche, no habrás aprendido un nuevo idioma. Hacemos pequeños cambios, pero **los resultados nunca se dan de manera inmediata**; eso nos descorazona y nos lleva de vuelta a nuestras viejas rutinas.
 
@@ -13,10 +13,10 @@
 
 |9.28| Dicho eso, no importa el éxito que tengas en este preciso momento. Lo que importa es determinar si tus hábitos te están conduciendo hacia el camino del éxito. **Debes preocuparte más de la trayectoria que estás siguiendo en el presente que de los resultados que has alcanzado hasta ahora**. Si eres millonario pero gastas más de lo que ganas cada mes, entonces estás siguiendo una mala trayectoria. Si tus hábitos de consumo no cambian, no vas a terminar bien. En cambio, si estás en quiebra pero consigues ahorrar un poco cada mes, entonces te encuentras en un camino que te conducirá a la libertad financiera, aun si lograrlo te toma más tiempo del que te gustaría.
 
-> |9.29| Tus resultados son los indicadores reactivos[^§] de tus hábitos. La cantidad de dinero que posees es un indicador reactivo de tus hábitos financieros. Tu peso actual es un indicador reactivo de tus hábitos alimenticios. Tu conocimiento es un indicador reactivo de tus hábitos de estudio. El aspecto de tu casa es un indicador reactivo de tus hábitos de orden y limpieza. **Al final obtienes lo que repites.**
+> |9.29| Tus resultados son los indicadores reactivos[^1] de tus hábitos. La cantidad de dinero que posees es un indicador reactivo de tus hábitos financieros. Tu peso actual es un indicador reactivo de tus hábitos alimenticios. Tu conocimiento es un indicador reactivo de tus hábitos de estudio. El aspecto de tu casa es un indicador reactivo de tus hábitos de orden y limpieza. **Al final obtienes lo que repites.**
 
 |9.30| Si quieres predecir dónde terminarás tu vida, todo lo que tienes que hacer es seguir la curva de las pequeñas ganancias y pérdidas y proyectar cómo tus decisiones diarias se comportan a lo largo de diez o veinte años. ¿Gastas menos de lo que ganas cada mes? ¿Vas al gimnasio varias veces a la semana? ¿Lees libros y aprendes algo nuevo cada día? **Las pequeñas batallas que ganamos cada día son las que definen nuestro futuro.**
 
 |9.31| **El tiempo magnifica el margen entre éxito y fracaso y va a multiplicar aquello que repites con frecuencia.** Los buenos hábitos terminan siendo tus aliados. Los malos hábitos acaban por convertirse en enemigos.
 
-[^§]: _reactivo:_ respuesta a un impulso o estímulo.
+[^1]: *reactivo:* respuesta a un impulso o estímulo.
