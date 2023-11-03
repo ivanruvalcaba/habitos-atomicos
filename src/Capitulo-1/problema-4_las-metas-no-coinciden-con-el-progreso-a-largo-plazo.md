@@ -1,0 +1,5 @@
+# Problema 4: Las metas no coinciden con el progreso a largo plazo
+
+|9.87| Por último, una mente que privilegia las metas puede crear un efecto de «yoyó». Muchos corredores entrenan durante meses, pero tan pronto como cruzan la línea de meta, dejan de entrenar. La carrera ya no está ahí para motivarlos. Cuando todo tu trabajo se centra en una meta en particular, ¿qué queda para motivarte una vez que la alcanzas? Esta es la razón por la cual muchas personas regresan a sus viejos hábitos malos una vez que alcanzan una meta.
+
+|9.88| **El propósito de definir metas consiste en convertirse en un ganador de una sola ocasión. El propósito de construir sistemas consiste en seguir participando en el juego.** La mentalidad que verdaderamente se centra en el largo plazo no se centra en el cumplimiento de metas. **No se trata de alcanzar metas aisladas. Se trata de un ciclo de refinamiento interminable y de mejora continua.** Por encima de todo, tu compromiso con el *proceso* es lo que va a determinar tu *progreso*.
