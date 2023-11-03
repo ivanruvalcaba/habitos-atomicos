@@ -154,6 +154,8 @@ $RECYCLE.BIN/
 ### Obsidian ###
 # config dir
 .obsidian/
+# trash dir
+.trash/
 
 ### mdBook ###
 book
