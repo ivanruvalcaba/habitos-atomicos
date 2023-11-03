@@ -6,6 +6,7 @@
     - [Tus hábitos actúan de manera acumulativa a tu favor o en tu contra](Capitulo-1/tus-habitos-actuan-de-manera-acumulativa-a-tu-favor-o-en-tu-contra.md)
     - [En qué consiste realmente el progreso](Capitulo-1/en-que-consiste-realmente-el-progreso.md)
     - [La meseta de potencial latente](Capitulo-1/la-meseta-de-potencial-latente.md)
+    - [Olvida las metas y mejor céntrate en los sistemas](Capitulo-1/olvida-las-metas-y-mejor-centrate-en-los-sistemas.md)
 
 ---
 
