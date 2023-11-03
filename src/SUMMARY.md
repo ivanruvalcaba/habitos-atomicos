@@ -8,9 +8,9 @@
     - [La meseta de potencial latente](Capitulo-1/la-meseta-de-potencial-latente.md)
     - [Olvida las metas y mejor céntrate en los sistemas](Capitulo-1/olvida-las-metas-y-mejor-centrate-en-los-sistemas.md)
 	    - [Problema 1: Los ganadores y los perdedores comparten las mismas metas](Capitulo-1/problema-1_los-ganadores-y-los-perdedores-comparten-las-mismas-metas.md)
-	    - [Problema 2: Alcanzar una meta consiste únicamente en un cambio momentáneo](Capitulo-1/problema-2_alcanzar-una-meta-consiste-unicamente-en-un-cambio-momentaneo)
-	    - [Problema 3: Las metas restringen la felicidad](Capitulo-1/problema-3_las-metas-restringen-la-felicidad)
-	    - [Problema 4: Las metas no coinciden con el progreso a largo plazo](Capitulo-1/problema-4_las-metas-no-coinciden-con-el-progreso-a-largo-plazo)
+	    - [Problema 2: Alcanzar una meta consiste únicamente en un cambio momentáneo](Capitulo-1/problema-2_alcanzar-una-meta-consiste-unicamente-en-un-cambio-momentaneo.md)
+	    - [Problema 3: Las metas restringen la felicidad](Capitulo-1/problema-3_las-metas-restringen-la-felicidad.md)
+	    - [Problema 4: Las metas no coinciden con el progreso a largo plazo](Capitulo-1/problema-4_las-metas-no-coinciden-con-el-progreso-a-largo-plazo.md)
 
 ---
 
