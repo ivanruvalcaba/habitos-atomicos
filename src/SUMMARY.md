@@ -17,7 +17,7 @@
 	    - [Problema 4: Las metas no coinciden con el progreso a largo plazo](capitulo-1/problema-4_las-metas-no-coinciden-con-el-progreso-a-largo-plazo.md)
 	- [Un sistema de hábitos atómicos](capitulo-1/un-sistema-de-habitos-atomicos.md)
 	- [Resumen del capítulo](capitulo-1/resumen-del-capitulo.md)
-- [La manera en que tus hábitos moldean tu identidad (y viceversa)]()
+- [La manera en que tus hábitos moldean tu identidad (y viceversa)](capitulo-2/la-manera-en-que-tus-habitos-moldean-tu-identidad-(y-viceversa).md)
 
 ---
 
