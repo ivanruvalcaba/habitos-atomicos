@@ -20,6 +20,8 @@
 - [La manera en que tus hábitos moldean tu identidad (y viceversa)](capitulo-2/la-manera-en-que-tus-habitos-moldean-tu-identidad-(y-viceversa).md)
 	- [Las tres capas del cambio de conducta](capitulo-2/las-tres-capas-del-cambio-de-conducta.md)
 		- [La primera capa incluye cambiar tus resultados](capitulo-2/la-primera-capa-incluye-cambiar-tus-resultados.md)
+		- [La segunda capa incluye cambiar tus procesos](capitulo-2/la-segunda-capa-incluye-cambiar-tus-procesos.md)
+		- [La tercera capa, la más profunda, incluye cambiar tu identidad](capitulo-2/la-tercera-capa-la-mas-profunda-incluye-cambiar-tu-identidad.md)
 
 ---
 
