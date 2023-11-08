@@ -49,3 +49,16 @@
 - La meta no es aprender a tocar un instrumento, la meta es convertirse en músico.
 
 |10.46| Tus conductas suelen ser un reflejo de tu identidad. Lo que haces es un indicador del tipo de persona que crees que eres —independientemente de que esto se dé a nivel consciente o inconsciente—.
+
+|10.47| Como todos los aspectos de la formación de hábitos, este también es un arma de doble filo. Cuando trabaja a tu favor, el cambio de identidad puede ser una poderosa fuerza de superación personal. En cambio, cuando trabaja en tu contra, el cambio de identidad puede ser una maldición. Una vez que has adoptado una identidad, es fácil que tu lealtad hacia ella influya en tu capacidad para cambiar. Mucha gente avanza por la vida en medio de un adormecimiento cognitivo, siguiendo ciegamente las normas asociadas a su identidad.
+
+- «Soy pésimo para seguir instrucciones.»
+- «No sirvo para despertarme temprano.»
+- «Soy malísimo para recordar los nombres de las personas.»
+- «Siempre llego tarde.»
+- «Soy un negado para la tecnología.»
+- «Soy pésimo para las matemáticas.»
+
+|10.57| Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias.[^1] Encuentras todas las maneras posibles de evitar caer en contradicciones con esa imagen que tienes de ti mismo.
+
+[^1]: Leon Festinger, A Theory of Cognitive Dissonance, Stanford, California, Stanford University Press, 1957 [Teoría de la disonancia cognoscitiva, Madrid, Instituto de Estudios Políticos, 1975].
