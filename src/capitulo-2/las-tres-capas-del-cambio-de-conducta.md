@@ -31,3 +31,21 @@
 |10.26| **FIGURA 4.** *En los hábitos que están basados en resultados, el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad, el enfoque está en quién queremos llegar a ser.*
 
 |10.28| La mayoría de las personas comienzan el proceso de cambiar sus hábitos centrándose en *aquello* que quieren alcanzar. Esto los conduce a hábitos que están basados en las metas o resultados. La alternativa apropiada es construir hábitos basados en cambios de identidad. Con este planteamiento empezamos por centrarnos en *quién* queremos llegar a ser.
+
+|10.31| La mayoría de las personas ni siquiera consideran cambiar su identidad cuando se deciden a mejorar. Únicamente piensan, «Quiero ser delgado (*resultado*) y si me apego a esta dieta, adelgazaré (*proceso*)». Establecen metas y determinan las acciones para alcanzar esas metas, pero ni siquiera consideran las creencias que dirigen sus acciones. Nunca cambian la manera como se conciben a sí mismas, y no se dan cuenta de que su vieja identidad puede sabotear sus planes de cambiar.
+
+|10.33| Siempre existe un sistema de creencias y suposiciones que moldean el sistema, una identidad detrás de los hábitos.
+
+|10.34| **La conducta que no es congruente con el yo no será duradera.** Puedes querer tener dinero, pero si tu identidad es la de una persona que consume en lugar de crear, seguirás siendo proclive a gastar más que a ganar. Puedes querer mejorar tu salud, pero si tu prioridad es la comodidad más que el esfuerzo, seguirás prefiriendo relajarte y descansar más que entrenar. Es muy difícil cambiar tus hábitos si no cambias las creencias subterráneas que te condujeron a las conductas pasadas que deseas cambiar. Tienes una nueva meta y un nuevo plan, pero no te has transformado a ti mismo.
+
+|10.38| La forma máxima de motivación intrínseca se da cuando un hábito se convierte en parte integral de tu identidad. Una cosa es decir «soy el tipo de persona que *quiere* esto»; otra cosa muy distinta es poder decir «soy el tipo de persona que *es* esto».
+
+|10.39| Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto. Si estás orgulloso del aspecto de tu cabello, seguramente desarrollarás una serie de hábitos para cuidarlo y mantenerlo en buen estado. Si estás orgulloso del tamaño de tus bíceps, seguramente nunca te saltarás los ejercicios para fortalecer la parte superior del cuerpo de tu rutina de ejercicios. Si estás orgulloso de las bufandas que tejes, seguramente invertirás horas cada semana en tejer. Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.
+
+|10.40| El verdadero cambio de conducta es un cambio de identidad. Puedes iniciar un hábito porque tienes la motivación para adquirirlo, pero la única razón por la cual lo mantienes y lo cultivas es porque se convierte en parte de tu identidad.
+
+- La meta no es leer un libro, la meta es convertirse en lector.
+- La meta no es correr un maratón, la meta es convertirse en corredor.
+- La meta no es aprender a tocar un instrumento, la meta es convertirse en músico.
+
+|10.46| Tus conductas suelen ser un reflejo de tu identidad. Lo que haces es un indicador del tipo de persona que crees que eres —independientemente de que esto se dé a nivel consciente o inconsciente—.
