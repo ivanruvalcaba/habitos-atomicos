@@ -16,15 +16,15 @@
 
 ## La primera capa incluye cambiar tus resultados
 
-|10.15| Este nivel se relaciona con el cambio de los resultados: perder peso, publicar un libro, ganar un campeonato. La mayoría de las metas que te propones lograr están asociadas con este nivel de cambio.
+|10.15| Este nivel se relaciona con el cambio de los resultados: perder peso, publicar un libro, ganar un campeonato. *La mayoría de las metas que te propones lograr están asociadas con este nivel de cambio.*
 
 ## La segunda capa incluye cambiar tus procesos
 
-|10.16| Este nivel se relaciona con el cambio de hábitos y sistemas: implementar una nueva rutina en el gimnasio, organizar tu escritorio para tener un mejor flujo de trabajo, desarrollar una práctica de meditación. La mayoría de los hábitos que desarrollas están asociados con este nivel.
+|10.16| Este nivel se relaciona con el cambio de hábitos y sistemas: implementar una nueva rutina en el gimnasio, organizar tu escritorio para tener un mejor flujo de trabajo, desarrollar una práctica de meditación. *La mayoría de los hábitos que desarrollas están asociados con este nivel.*
 
 ## La tercera capa, la más profunda, incluye cambiar tu identidad
 
-|10.17| Este nivel se relaciona con cambiar tus creencias: tu visión del mundo, la imagen de ti mismo, tus juicios acerca de ti mismo y de los demás. La mayoría de las creencias, las suposiciones y los prejuicios que mantienes están asociados con este nivel.
+|10.17| Este nivel se relaciona con cambiar tus creencias: tu visión del mundo, la imagen de ti mismo, tus juicios acerca de ti mismo y de los demás. *La mayoría de las creencias, las suposiciones y los prejuicios que mantienes están asociados con este nivel.*
 
 |10.18| **Los resultados tienen que ver con lo que obtienes. Los procesos tienen que ver con lo que haces. La identidad tiene que ver con lo que crees.** Cuando se trata de desarrollar hábitos perdurables —es decir, cuando se trata de desarrollar un sistema de un 1% de mejora —, el problema no radica en definir si un nivel es mejor o peor que otro. El verdadero problema radica en la dirección que sigue el cambio.
 
@@ -46,7 +46,7 @@
 
 |10.26| **FIGURA 4.** *En los hábitos que están basados en resultados (primera gráfica), el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad (segunda gráfica), el enfoque está en quién queremos llegar a ser.*
 
-|10.28| La mayoría de las personas comienzan el proceso de cambiar sus hábitos centrándose en *aquello* que quieren alcanzar. Esto los conduce a hábitos que están basados en las metas o resultados. La alternativa apropiada es construir hábitos basados en cambios de identidad. Con este planteamiento empezamos por centrarnos en *quién* queremos llegar a ser.
+|10.28| La mayoría de las personas comienzan el proceso de cambiar sus hábitos centrándose en *aquello* que quieren alcanzar. Esto los conduce a hábitos que están basados en las metas o resultados. **La alternativa apropiada es construir hábitos basados en cambios de identidad.** Con este planteamiento empezamos por centrarnos en *quién* queremos llegar a ser.
 
 |10.31| La mayoría de las personas ni siquiera consideran cambiar su identidad cuando se deciden a mejorar. Únicamente piensan, «Quiero ser delgado (*resultado*) y si me apego a esta dieta, adelgazaré (*proceso*)». Establecen metas y determinan las acciones para alcanzar esas metas, pero ni siquiera consideran las creencias que dirigen sus acciones. Nunca cambian la manera como se conciben a sí mismas, y no se dan cuenta de que su vieja identidad puede sabotear sus planes de cambiar.
 
