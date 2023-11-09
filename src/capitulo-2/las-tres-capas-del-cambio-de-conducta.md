@@ -1,5 +1,14 @@
 # Las tres capas del cambio de conducta
 
+**Tabla de contenidos**
+
+- [La primera capa incluye cambiar tus resultados](#la-primera-capa-incluye-cambiar-tus-resultados)
+- [La segunda capa incluye cambiar tus procesos](#la-segunda-capa-incluye-cambiar-tus-procesos)
+- [La tercera capa, la más profunda, incluye cambiar tu identidad](#la-tercera-capa-la-m%C3%A1s-profunda-incluye-cambiar-tu-identidad)
+- [Hábitos basados en resultados](#h%C3%A1bitos-basados-en-resultados)
+- [Hábitos basados en la identidad](#h%C3%A1bitos-basados-en-la-identidad)
+
+
 ![](attachments/las-tres-capas-del-cambio-de-conducta%201.jpg)
 
 |10.11| **FIGURA 3.** *El cambio de conducta está formado por tres capas o niveles: un cambio en tus resultados, uno en tus procesos y uno en tu identidad.*
