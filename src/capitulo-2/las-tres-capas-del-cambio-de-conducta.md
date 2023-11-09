@@ -8,7 +8,6 @@
 - [Hábitos basados en resultados](#h%C3%A1bitos-basados-en-resultados)
 - [Hábitos basados en la identidad](#h%C3%A1bitos-basados-en-la-identidad)
 
-
 ![](attachments/las-tres-capas-del-cambio-de-conducta%201.jpg)
 
 |10.11| **FIGURA 3.** *El cambio de conducta está formado por tres capas o niveles: un cambio en tus resultados, uno en tus procesos y uno en tu identidad.*
@@ -75,5 +74,3 @@
 |10.59| Un día cualquiera quizá te encuentres buscando excusas para no cumplir con tus hábitos positivos simplemente porque estás demasiado cansado, o demasiado ocupado o demasiado abrumado o por un sinfín de pretextos distintos. Al fin y al cabo, sin embargo, la verdadera razón por la cual dejas de cumplir con tus hábitos es porque la imagen que tienes de ti mismo se interpone en el camino. Esta es la razón por la cual no puedes aferrarte a una versión única de identidad. El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
 
 [^1]: Leon Festinger, A Theory of Cognitive Dissonance, Stanford, California, Stanford University Press, 1957 [Teoría de la disonancia cognoscitiva, Madrid, Instituto de Estudios Políticos, 1975].
-
-
