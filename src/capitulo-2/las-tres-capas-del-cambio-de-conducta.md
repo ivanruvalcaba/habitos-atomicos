@@ -58,13 +58,13 @@
 
 |10.39| **Cuanto más orgulloso te sientas de un aspecto particular de tu identidad, más motivado estarás para mantener y cultivar los hábitos que están asociados con dicho aspecto.** Si estás orgulloso del aspecto de tu cabello, seguramente desarrollarás una serie de hábitos para cuidarlo y mantenerlo en buen estado. Si estás orgulloso del tamaño de tus bíceps, seguramente nunca te saltarás los ejercicios para fortalecer la parte superior del cuerpo de tu rutina de ejercicios. Si estás orgulloso de las bufandas que tejes, seguramente invertirás horas cada semana en tejer. Una vez que tu orgullo se involucra, de forma natural luchas con uñas y dientes para mantener tus hábitos.
 
-|10.40| El verdadero cambio de conducta es un cambio de identidad. Puedes iniciar un hábito porque tienes la motivación para adquirirlo, pero la única razón por la cual lo mantienes y lo cultivas es porque se convierte en parte de tu identidad.
+|10.40| **El verdadero cambio de conducta es un cambio de identidad.** Puedes iniciar un hábito porque tienes la motivación para adquirirlo, pero la única razón por la cual lo mantienes y lo cultivas es porque se convierte en parte de tu identidad.
 
-- La meta no es leer un libro, la meta es convertirse en lector.
-- La meta no es correr un maratón, la meta es convertirse en corredor.
-- La meta no es aprender a tocar un instrumento, la meta es convertirse en músico.
+- La meta no es leer un libro, *la meta es convertirse en lector*.
+- La meta no es correr un maratón, *la meta es convertirse en corredor*.
+- La meta no es aprender a tocar un instrumento, *la meta es convertirse en músico*.
 
-|10.46| Tus conductas suelen ser un reflejo de tu identidad. Lo que haces es un indicador del tipo de persona que crees que eres —independientemente de que esto se dé a nivel consciente o inconsciente—.
+|10.46| **Tus conductas suelen ser un reflejo de tu identidad.** Lo que haces es un indicador del tipo de persona que crees que eres —independientemente de que esto se dé a nivel consciente o inconsciente—.
 
 |10.47| Como todos los aspectos de la formación de hábitos, este también es un arma de doble filo. Cuando trabaja a tu favor, el cambio de identidad puede ser una poderosa fuerza de superación personal. En cambio, cuando trabaja en tu contra, el cambio de identidad puede ser una maldición. Una vez que has adoptado una identidad, es fácil que tu lealtad hacia ella influya en tu capacidad para cambiar. Mucha gente avanza por la vida en medio de un adormecimiento cognitivo, siguiendo ciegamente las normas asociadas a su identidad.
 
@@ -75,10 +75,10 @@
 - «Soy un negado para la tecnología.»
 - «Soy pésimo para las matemáticas.»
 
-|10.57| Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias.[^1] Encuentras todas las maneras posibles de evitar caer en contradicciones con esa imagen que tienes de ti mismo.
+|10.57| Cuando te has repetido a ti mismo una historia durante años, es sencillo que te aferres a estas rutinas mentales y las aceptes como un hecho. Con el tiempo, comienzas a resistirte a realizar ciertas acciones porque crees que no son parte de lo que tú eres. Se desarrolla una presión interna para mantener intacta la imagen de ti mismo y tú te comportas de manera consistente con tus creencias[^1]. Encuentras todas las maneras posibles de evitar caer en contradicciones con esa imagen que tienes de ti mismo.
 
-|10.58| Cuanto más profundamente estén vinculados a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar. Puede parecer cómodo creer en lo que tu entorno cultural cree (identidad de grupo) o hacer aquello que sustenta tu autoimagen (identidad personal), a pesar de que no sea correcto y te perjudique. El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el cambio positivo a cualquier nivel (individual, grupal o social). Los hábitos positivos pueden tener sentido a nivel racional, pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos en práctica.
+|10.58| Cuanto más profundamente estén vinculados a tu identidad, las acciones y los pensamientos serán más difíciles de cambiar. Puede parecer cómodo creer en lo que tu entorno cultural cree (identidad de grupo) o hacer aquello que sustenta tu autoimagen (identidad personal), a pesar de que no sea correcto y te perjudique. **El conflicto con la identidad es la mayor barrera a la que puede enfrentarse el cambio positivo a cualquier nivel** (individual, grupal o social). Los hábitos positivos pueden tener sentido a nivel racional, pero si entran en conflicto con tu identidad, vas a fracasar cuando intentes ponerlos en práctica.
 
-|10.59| Un día cualquiera quizá te encuentres buscando excusas para no cumplir con tus hábitos positivos simplemente porque estás demasiado cansado, o demasiado ocupado o demasiado abrumado o por un sinfín de pretextos distintos. Al fin y al cabo, sin embargo, la verdadera razón por la cual dejas de cumplir con tus hábitos es porque la imagen que tienes de ti mismo se interpone en el camino. Esta es la razón por la cual no puedes aferrarte a una versión única de identidad. El progreso requiere desaprender lo aprendido. Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
+|10.59| Un día cualquiera quizá te encuentres buscando excusas para no cumplir con tus hábitos positivos simplemente porque estás demasiado cansado, o demasiado ocupado o demasiado abrumado o por un sinfín de pretextos distintos. Al fin y al cabo, sin embargo, **la verdadera razón por la cual dejas de cumplir con tus hábitos es porque la imagen que tienes de ti mismo se interpone en el camino.** Esta es la razón por la cual no puedes aferrarte a una versión única de identidad. **El progreso requiere desaprender lo aprendido.** Para lograr ser la mejor versión de ti mismo, es necesario que edites constantemente tus creencias y que actualices y expandas tu identidad.
 
 [^1]: Leon Festinger, A Theory of Cognitive Dissonance, Stanford, California, Stanford University Press, 1957 [Teoría de la disonancia cognoscitiva, Madrid, Instituto de Estudios Políticos, 1975].
