@@ -44,7 +44,7 @@
 > 2. Procesos.
 > 3. Resultados.
 
-|10.26| **FIGURA 4.** *En los hábitos que están basados en resultados (primera gráfica), el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad (segunda gráfic), el enfoque está en quién queremos llegar a ser.*
+|10.26| **FIGURA 4.** *En los hábitos que están basados en resultados (primera gráfica), el enfoque está en lo que queremos lograr. En los hábitos basados en la identidad (segunda gráfica), el enfoque está en quién queremos llegar a ser.*
 
 |10.28| La mayoría de las personas comienzan el proceso de cambiar sus hábitos centrándose en *aquello* que quieren alcanzar. Esto los conduce a hábitos que están basados en las metas o resultados. La alternativa apropiada es construir hábitos basados en cambios de identidad. Con este planteamiento empezamos por centrarnos en *quién* queremos llegar a ser.
 
