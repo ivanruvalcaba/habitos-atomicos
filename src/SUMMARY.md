@@ -20,6 +20,7 @@
 - [La manera en que tus hábitos moldean tu identidad (y viceversa)](capitulo-2/la-manera-en-que-tus-habitos-moldean-tu-identidad-(y-viceversa).md)
 	- [Las tres capas del cambio de conducta](capitulo-2/las-tres-capas-del-cambio-de-conducta.md)
 	- [El proceso de dos pasos para cambiar tu identidad](capitulo-2/el-proceso-de-dos-pasos-para-cambiar-tu-identidad.md)
+	- [La verdadera razón por la que los hábitos importan](capitulo-2/la-verdadera-razon-por-la-que-los-habitos-importan.md)
 
 ---
 
