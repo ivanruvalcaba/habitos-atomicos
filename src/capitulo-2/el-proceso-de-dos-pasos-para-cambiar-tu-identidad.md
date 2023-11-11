@@ -22,4 +22,16 @@
 1. Decide qué tipo de persona quieres ser.
 2. Demuéstratelo a ti mismo mediante pequeñas victorias continuas.
 
+|10.87| **Primero decide quién quieres ser.** Esto se aplica a cualquier nivel —para un individuo, para un equipo, para una comunidad, para un país—. ¿Qué deseas representar? ¿Qué tipo de principios y valores quieres defender? ¿En quién quieres convertirte?
+
+|10.88| Estas últimas son grandes preguntas y muchas personas no saben ni siquiera cómo comenzar a lidiar con estos temas. Sin embargo, todos saben los resultados que desean obtener: abdominales marcados, o reducir sus niveles de ansiedad o incrementar su salario al doble. Eso está bien, es válido. Puedes comenzar desde el tipo de resultados que quieres alcanzar y luego ir hacia atrás y construir al tipo de persona capaz de obtener esos resultados. Pregúntate a ti mismo: «¿Quién es la persona que puede obtener los resultados que quiero alcanzar? ¿Qué tipo de persona puede perder 20 kilos de peso? ¿Qué tipo de persona puede aprender un nuevo idioma? ¿Qué tipo de persona puede iniciar una nueva empresa exitosa?».
+
+|10.90| Este proceso te conduce a un sistema de creencias como el que sigue:
+
+- Soy la clase de maestro que defiende a sus alumnos.
+- Soy la clase de doctor que dedica a sus pacientes el tiempo y la empatía que requieren.
+- Soy la clase de líder que aboga por sus empleados.
+
+|10.96| Una vez que defines la clase de persona que quieres ser, puedes empezar a dar pequeños pasos para reforzar tu identidad deseada.
+
 [^1]: Ciertamente, hay algunos aspectos de tu identidad que tienden a permanecer sin cambios a través del tiempo —por ejemplo, si te concibes a ti mismo como bajo o alto—. Pero otras características o cualidades más complejas, ya sea que las concibas como positivas o negativas, son determinadas por tus experiencias de vida.
